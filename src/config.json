@@ -1,0 +1,5 @@
+{
+	"DEFAULT_SERVER": "id",
+	"DEFAULT_CHANNEL": "id",
+	"DISCORD_TOKEN": "token"
+}

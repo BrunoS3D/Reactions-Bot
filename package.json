@@ -1,0 +1,10 @@
+{
+  "name": "reactions-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Silva",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
